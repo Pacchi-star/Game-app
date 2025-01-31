@@ -7,6 +7,7 @@ import Contact from './Components/Contact'
 import Footer from './Components/Footer'
 import { createBrowserRouter, RouterProvider, Route, Link } from 'react-router-dom';
 import ProductDetails from './Components/ProductDetails';
+import ClothPhotos from './Components/ClothPhotos'
 
 
 
@@ -19,6 +20,7 @@ const Dashboard = () => {
         <Work/>
         {/* <ProductDetails/> */}
         <Testimonials/>
+        <ClothPhotos />
         <Contact/>
         <Footer/>
     </div>

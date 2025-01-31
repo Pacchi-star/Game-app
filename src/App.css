@@ -502,7 +502,15 @@
     padding: 40px;
     color: #fe9e0d;
   }
-
+ 
+  .about-sectio-container{
+    margin-top: 0px;
+    gap: 2px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
 
 
 
