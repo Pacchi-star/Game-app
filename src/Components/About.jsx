@@ -35,7 +35,7 @@ const About = () => {
                         Hoodies is important part of our lifeStyle.
                     </h1>
                     <p className="primary-text">
-                    images At [GOAT-Hoodies], we believe that style is not just about clothing—it's 
+                    [GOAT-Hoodies], we believe that style is not just about clothing—it's 
                     about expression, confidence, and individuality. Our mission is to empower men to embrace 
                     their unique style with premium,high-quality fashion pieces that blend timeless sophistication 
                     with modern trends.
