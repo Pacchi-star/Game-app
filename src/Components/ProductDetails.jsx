@@ -150,7 +150,7 @@ const navigate = useNavigate();
                  <button className="secondary-button" onClick={() => navigate('/')}>
                  <FiArrowLeft /> Back
                  </button>
-              <a href="https://wa.me/9110869194?text=Hello, Can you please take my Order ?">
+              <a href="https://wa.me/9483090317?text=Hello, Can you please take my Order ?">
               <button className="secondary-button">
                               Booking <FiArrowRight />
                  </button>

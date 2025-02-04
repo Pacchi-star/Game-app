@@ -20,7 +20,7 @@ const Dashboard = () => {
         <Work/>
         {/* <ProductDetails/> */}
         <Testimonials/>
-        <ClothPhotos />
+       <ClothPhotos />
         <Contact/>
         <Footer/>
     </div>

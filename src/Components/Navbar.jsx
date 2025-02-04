@@ -52,7 +52,7 @@ const Navbar = () => {
                 <a href="">
                     <BsCart2 className="navbar-car-icon" />
                 </a>
-                <button className="primary-button"> Order Now ! </button>
+                <button className="primary-button" onClick={() => navigate('/ProductDetails')}> Order Now ! </button>
             </div>
 
             <div className="navbar-menu-container">

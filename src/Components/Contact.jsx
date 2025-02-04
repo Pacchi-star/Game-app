@@ -17,8 +17,9 @@ const navigate = useNavigate();
          <button className="secondary-button" onClick={() => navigate("/")}>
                        <FiArrowLeft /> Back
          </button>
-        <button className="secondary-button"onClick={() => navigate()}>Submit <FiArrowRight /></button>
-
+        <a href="https://wa.me/9483090317?text=Hello, can you inform me about more ?">
+        <button className="secondary-button">Submit <FiArrowRight /></button>
+        </a>
       </div>
 
     </div>
