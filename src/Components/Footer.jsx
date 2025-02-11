@@ -33,11 +33,10 @@ const Footer = () => {
                 <span>Work</span>
             </div>
             <div className="footer-section-columns">
-                <span>420-120-100108</span>
                 <span>Namaste@Hoodies.com</span>
-                <span>BTM-layout Banglore</span>
-                <span>Banglore-560049</span>
-                <span>92287352038</span>
+                <span>HSR-layout, Banglore</span>
+                <span>Banglore-560102</span>
+                <span>9483090317</span>
             </div>
         </div>
       
