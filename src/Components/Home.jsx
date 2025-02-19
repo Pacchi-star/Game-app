@@ -24,7 +24,7 @@ const Home = () => {
               Your Favourite Hoodies 
             </h1>
             <p className='primary-text'>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, pariatur?
+            The 400 GSM Hoodie indicates a premium, high-density fabric, making the hoodie ideal for colder weather.
             </p>
             <button className="secondary-button" onClick={() => navigate("/ProductDetails")}>
               Order now <FiArrowRight />

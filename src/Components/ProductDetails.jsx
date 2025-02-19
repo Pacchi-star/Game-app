@@ -73,10 +73,10 @@ const navigate = useNavigate();
 </div>
 <div className='price'>
     <div className="finalprice">
-        <h3>MRP - 6000.00 rs<br/> Discount Price - 4000.00 rs</h3>
+        <h3 className='dPrice'>MRP - 1499 rs<br/> </h3> <h3> Discount Price - 1199 rs</h3>
     </div>
     <div className="finalprice">
-        <h3 className='strach'>MRP - 6000.00 rs<br/> </h3><h3>Discount Price - 4000.00 rs</h3>
+        <h3 className='dPrice'>MRP - 1499 rs<br/> </h3><h3>Discount Price - 1199 rs</h3>
     </div>
 
 </div>
@@ -150,7 +150,7 @@ const navigate = useNavigate();
                  <button className="secondary-button" onClick={() => navigate('/')}>
                  <FiArrowLeft /> Back
                  </button>
-              <a href="https://wa.me/9110869194?text=Hello, Can you please take my Order ?">
+              <a href="https://wa.me/9483090317?text=Hello, Can you please take my Order ?">
               <button className="secondary-button">
                               Booking <FiArrowRight />
                  </button>

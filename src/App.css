@@ -502,6 +502,9 @@
     padding: 40px;
     color: #fe9e0d;
   }
+  .dPrice{
+    text-decoration: line-through;
+  }
  
   .about-sectio-container{
     margin-top: 0px;
